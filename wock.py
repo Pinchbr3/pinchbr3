@@ -1,2 +1,4 @@
 ﻿print ("Hello")
+<<<<<<< HEAD
 int 
+
