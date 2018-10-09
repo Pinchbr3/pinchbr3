@@ -1,4 +1,2 @@
 ﻿print ("Hello")
-<<<<<<< HEAD
-int 
 
